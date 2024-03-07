@@ -8,8 +8,8 @@
 | 이름 | 개인 역할 | 담당 역할 및 기능 |
 | ------ | ---------- | ------ |
 | 원동훈 | PM, Developer | PM, 기획, 개발 |
-| 이중휘 | Developer, Designer | 개발 |
-| 오준혁 | Developer, Designer | 개발 |
+| 이중휘 | Developer | 개발 |
+| 오준혁 | Developer | 개발 |
 
 <br/>
 
