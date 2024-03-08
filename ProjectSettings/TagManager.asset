@@ -44,18 +44,12 @@ TagManager:
   - name: Background
     uniqueID: 1703069073
     locked: 0
-  - name: New Layer 2
-    uniqueID: 276755379
+  - name: Enemy
+    uniqueID: 2822399317
     locked: 0
-  - name: New Layer 3
-    uniqueID: 2821543545
+  - name: Soldier
+    uniqueID: 1568816863
     locked: 0
-  - name: New Layer 4
-    uniqueID: 3091819397
-    locked: 0
-  - name: New Layer 5
-    uniqueID: 1544928677
-    locked: 0
-  - name: UI
-    uniqueID: 2514772579
+  - name: Tower
+    uniqueID: 1911471603
     locked: 0
