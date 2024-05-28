@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - TowerWeapon
+  - ArcherWeapon123
+  - Stone
+  - Nexus
+  - Border
+  - MovePoints
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - TowerBuildPos
+  - Water
+  - UI
+  - Hit
+  - MovePoints
+  - 
+  - 
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1703069073
+    locked: 0
+  - name: Enemy
+    uniqueID: 2822399317
+    locked: 0
+  - name: Soldier
+    uniqueID: 1568816863
+    locked: 0
+  - name: Tower
+    uniqueID: 1911471603
+    locked: 0
+  - name: Effect
+    uniqueID: 3655368491
+    locked: 0
+  - name: Nexus
+    uniqueID: 596774573
+    locked: 0
